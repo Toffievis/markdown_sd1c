@@ -1,6 +1,7 @@
 # markdown_sd1c
-## Hoofdstuk 2
+## Hoofdstuk 2 hoe maak je een pokemon
 ![charizard picture](charizardmega.jpeg)
-1. kip
-2. jas
-3. hoed
+1. apricorn
+2. pokeball
+3. liefde
+
